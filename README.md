@@ -20,3 +20,14 @@
 `npm run build`
 
 `npm run preview`
+
+## Data
+
+See the CSV or JSON data in 
+
+> ./src/data
+
+The `trilogy.json` file contains the trilogy titles, ratings, and years.  The json was converted from the CSV and the CSV was exported from [https://docs.google.com/spreadsheets/d/1jW5EbnPrvWHp5P7wNuA-FAoShCJCiTG5igCtt_ji--s/edit?usp=sharing]
+Ratings are from IMDb, and the years were acquired via Copilot.
+
+The palette.json just has a distinct set of more colors than I have trilogies. Sourced from https://lospec.com/palette-list/survival-kids-gbc-42.

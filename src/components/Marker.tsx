@@ -3,14 +3,14 @@ import { useControls } from 'leva'
 import { useRef } from 'react'
 import { BufferGeometry, Group, Mesh, MeshStandardMaterial } from 'three'
 
-export interface ISphereProps {
+export interface IMarkerProps {
   name: string;
   pos: [number, number, number];
   col: string;
 }
 
-function Sphere({ name, pos, col }: ISphereProps) {
-  const sphereRef = useRef<Mesh<BufferGeometry, MeshStandardMaterial>>(null)
+function Marker({ name, pos, col }: IMarkerProps) {
+  const markerRef = useRef<Mesh<BufferGeometry, MeshStandardMaterial>>(null)
   const pivotRef = useRef<Group>(null)
 
   const { position, color, gizmo } = useControls(name, {
@@ -21,7 +21,7 @@ function Sphere({ name, pos, col }: ISphereProps) {
 
   return (
     <PivotControls anchor={[0, 0, 0]} depthTest={false} visible={gizmo} ref={pivotRef}>
-      <mesh position={position} ref={sphereRef} castShadow>
+      <mesh position={position} ref={markerRef} castShadow>
         <sphereGeometry args={[1, 30, 30]} />
         <meshStandardMaterial color={color} />
       </mesh>
@@ -29,4 +29,4 @@ function Sphere({ name, pos, col }: ISphereProps) {
   )
 }
 
-export { Sphere }
+export { Marker }
