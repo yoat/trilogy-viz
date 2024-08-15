@@ -8,7 +8,7 @@ import { Cube } from './components/Cube'
 import { Plane } from './components/Plane'
 import { Sphere } from './components/Sphere'
 import trilogyData from './data/trilogy.json';
-import colorPalette from './data/palette.json';
+import colorPalette from './data/palette.json'; // https://lospec.com/palette-list/survival-kids-gbc-42
 
 export interface ITrilogy {
   Trilogy: string;
