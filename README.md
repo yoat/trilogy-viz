@@ -31,3 +31,19 @@ The `trilogy.json` file contains the trilogy titles, ratings, and years.  The js
 Ratings are from IMDb, and the years were acquired via Copilot.
 
 The palette.json just has a distinct set of more colors than I have trilogies. Sourced from https://lospec.com/palette-list/survival-kids-gbc-42.
+
+## TODO
+
+- [x] Display points by Scores
+- [ ] Allow color configuration
+- [ ] Show movie info on point hover
+- [ ] Show trilogy info on point click
+- [ ] Highlight trilogy points on hover/click
+- [ ] Allow configuring each axis 
+  - [x] Installment score
+  - [ ] Year (range min/max from data)
+  - [ ] Installment index
+- [ ] Allow configuring color alignment
+  - [x] by Trilogy
+  - [ ] by Year (decade gradient)
+  - [ ] by Installment Index

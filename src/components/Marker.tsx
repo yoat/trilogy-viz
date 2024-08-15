@@ -13,11 +13,11 @@ function Marker({ name, pos, col }: IMarkerProps) {
   const markerRef = useRef<Mesh<BufferGeometry, MeshStandardMaterial>>(null)
   const pivotRef = useRef<Group>(null)
 
-  const { position, color, gizmo } = useControls(name, {
+  const { position, color, gizmo } = { //useControls(name, {
     position: pos,
     color: col,
     gizmo: false,
-  })
+  }//)
 
   return (
     <PivotControls anchor={[0, 0, 0]} depthTest={false} visible={gizmo} ref={pivotRef}>
