@@ -5,7 +5,7 @@
     "BravoScore": 7.8,
     "CharlieScore": 7.4,
     "AlphaYear": 1985,
-    "BetaYear": 1989,
+    "BravoYear": 1989,
     "CharlieYear": 1990
   },
   {
@@ -14,7 +14,7 @@
     "BravoScore": 9,
     "CharlieScore": 7.6,
     "AlphaYear": 1972,
-    "BetaYear": 1974,
+    "BravoYear": 1974,
     "CharlieYear": 1990
   },
   {
@@ -23,7 +23,7 @@
     "BravoScore": 7.6,
     "CharlieScore": 7.9,
     "AlphaYear": 2014,
-    "BetaYear": 2017,
+    "BravoYear": 2017,
     "CharlieYear": 2023
   },
   {
@@ -32,7 +32,7 @@
     "BravoScore": 7.5,
     "CharlieScore": 8.2,
     "AlphaYear": 1981,
-    "BetaYear": 1984,
+    "BravoYear": 1984,
     "CharlieYear": 1989
   },
   {
@@ -41,7 +41,7 @@
     "BravoScore": 8.7,
     "CharlieScore": 8.3,
     "AlphaYear": 1977,
-    "BetaYear": 1980,
+    "BravoYear": 1980,
     "CharlieYear": 1983
   },
   {
@@ -50,7 +50,7 @@
     "BravoScore": 6.6,
     "CharlieScore": 7.6,
     "AlphaYear": 1999,
-    "BetaYear": 2002,
+    "BravoYear": 2002,
     "CharlieYear": 2005
   },
   {
@@ -59,7 +59,7 @@
     "BravoScore": 6.9,
     "CharlieScore": 6.4,
     "AlphaYear": 2015,
-    "BetaYear": 2017,
+    "BravoYear": 2017,
     "CharlieYear": 2019
   },
   {
@@ -68,7 +68,7 @@
     "BravoScore": 9,
     "CharlieScore": 8.4,
     "AlphaYear": 2005,
-    "BetaYear": 2008,
+    "BravoYear": 2008,
     "CharlieYear": 2012
   },
   {
@@ -77,7 +77,7 @@
     "BravoScore": 7.2,
     "CharlieScore": 5.7,
     "AlphaYear": 1999,
-    "BetaYear": 2003,
+    "BravoYear": 2003,
     "CharlieYear": 2003
   },
   {
@@ -86,7 +86,7 @@
     "BravoScore": 7.5,
     "CharlieScore": 6.3,
     "AlphaYear": 2002,
-    "BetaYear": 2004,
+    "BravoYear": 2004,
     "CharlieYear": 2007
   },
   {
@@ -95,7 +95,7 @@
     "BravoScore": 8.8,
     "CharlieScore": 9,
     "AlphaYear": 2001,
-    "BetaYear": 2002,
+    "BravoYear": 2002,
     "CharlieYear": 2003
   },
   {
@@ -104,7 +104,7 @@
     "BravoScore": 7.8,
     "CharlieScore": 7.4,
     "AlphaYear": 2012,
-    "BetaYear": 2013,
+    "BravoYear": 2013,
     "CharlieYear": 2014
   },
   {
@@ -113,7 +113,7 @@
     "BravoScore": 7.6,
     "CharlieScore": 8.1,
     "AlphaYear": 2017,
-    "BetaYear": 2018,
+    "BravoYear": 2018,
     "CharlieYear": 2024
   },
   {
@@ -122,7 +122,7 @@
     "BravoScore": 7.7,
     "CharlieScore": 7.4,
     "AlphaYear": 1981,
-    "BetaYear": 1987,
+    "BravoYear": 1987,
     "CharlieYear": 1992
   },
   {
@@ -131,7 +131,7 @@
     "BravoScore": 6.6,
     "CharlieScore": 5.9,
     "AlphaYear": 1993,
-    "BetaYear": 1997,
+    "BravoYear": 1997,
     "CharlieYear": 2001
   },
   {
@@ -140,7 +140,7 @@
     "BravoScore": 6.1,
     "CharlieScore": 5.6,
     "AlphaYear": 2015,
-    "BetaYear": 2018,
+    "BravoYear": 2018,
     "CharlieYear": 2022
   },
   {
@@ -149,7 +149,7 @@
     "BravoScore": 6.3,
     "CharlieScore": 5.9,
     "AlphaYear": 1989,
-    "BetaYear": 1991,
+    "BravoYear": 1991,
     "CharlieYear": 2020
   }
 ]
