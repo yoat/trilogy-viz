@@ -1,0 +1,155 @@
+[
+  {
+    "Trilogy": "BTTF",
+    "AlphaScore": 8.5,
+    "BravoScore": 7.8,
+    "CharlieScore": 7.4,
+    "AlphaYear": 1985,
+    "BetaYear": 1989,
+    "CharlieYear": 1990
+  },
+  {
+    "Trilogy": "Godfather",
+    "AlphaScore": 9.2,
+    "BravoScore": 9,
+    "CharlieScore": 7.6,
+    "AlphaYear": 1972,
+    "BetaYear": 1974,
+    "CharlieYear": 1990
+  },
+  {
+    "Trilogy": "GotG",
+    "AlphaScore": 8,
+    "BravoScore": 7.6,
+    "CharlieScore": 7.9,
+    "AlphaYear": 2014,
+    "BetaYear": 2017,
+    "CharlieYear": 2023
+  },
+  {
+    "Trilogy": "Indy Jones 1-3",
+    "AlphaScore": 8.4,
+    "BravoScore": 7.5,
+    "CharlieScore": 8.2,
+    "AlphaYear": 1981,
+    "BetaYear": 1984,
+    "CharlieYear": 1989
+  },
+  {
+    "Trilogy": "Star Wars 4-6",
+    "AlphaScore": 8.6,
+    "BravoScore": 8.7,
+    "CharlieScore": 8.3,
+    "AlphaYear": 1977,
+    "BetaYear": 1980,
+    "CharlieYear": 1983
+  },
+  {
+    "Trilogy": "Star Wars 1-3",
+    "AlphaScore": 6.5,
+    "BravoScore": 6.6,
+    "CharlieScore": 7.6,
+    "AlphaYear": 1999,
+    "BetaYear": 2002,
+    "CharlieYear": 2005
+  },
+  {
+    "Trilogy": "Star Wars 7-9",
+    "AlphaScore": 7.8,
+    "BravoScore": 6.9,
+    "CharlieScore": 6.4,
+    "AlphaYear": 2015,
+    "BetaYear": 2017,
+    "CharlieYear": 2019
+  },
+  {
+    "Trilogy": "Dark Knight",
+    "AlphaScore": 8.2,
+    "BravoScore": 9,
+    "CharlieScore": 8.4,
+    "AlphaYear": 2005,
+    "BetaYear": 2008,
+    "CharlieYear": 2012
+  },
+  {
+    "Trilogy": "Matrix",
+    "AlphaScore": 8.7,
+    "BravoScore": 7.2,
+    "CharlieScore": 5.7,
+    "AlphaYear": 1999,
+    "BetaYear": 2003,
+    "CharlieYear": 2003
+  },
+  {
+    "Trilogy": "Spider-Toby",
+    "AlphaScore": 7.4,
+    "BravoScore": 7.5,
+    "CharlieScore": 6.3,
+    "AlphaYear": 2002,
+    "BetaYear": 2004,
+    "CharlieYear": 2007
+  },
+  {
+    "Trilogy": "LotR",
+    "AlphaScore": 8.9,
+    "BravoScore": 8.8,
+    "CharlieScore": 9,
+    "AlphaYear": 2001,
+    "BetaYear": 2002,
+    "CharlieYear": 2003
+  },
+  {
+    "Trilogy": "Hobbit",
+    "AlphaScore": 7.8,
+    "BravoScore": 7.8,
+    "CharlieScore": 7.4,
+    "AlphaYear": 2012,
+    "BetaYear": 2013,
+    "CharlieYear": 2014
+  },
+  {
+    "Trilogy": "Deadpool",
+    "AlphaScore": 8,
+    "BravoScore": 7.6,
+    "CharlieScore": 8.1,
+    "AlphaYear": 2017,
+    "BetaYear": 2018,
+    "CharlieYear": 2024
+  },
+  {
+    "Trilogy": "Evil Dead",
+    "AlphaScore": 7.4,
+    "BravoScore": 7.7,
+    "CharlieScore": 7.4,
+    "AlphaYear": 1981,
+    "BetaYear": 1987,
+    "CharlieYear": 1992
+  },
+  {
+    "Trilogy": "Jurassic Park",
+    "AlphaScore": 8.2,
+    "BravoScore": 6.6,
+    "CharlieScore": 5.9,
+    "AlphaYear": 1993,
+    "BetaYear": 1997,
+    "CharlieYear": 2001
+  },
+  {
+    "Trilogy": "Jurassic World",
+    "AlphaScore": 6.9,
+    "BravoScore": 6.1,
+    "CharlieScore": 5.6,
+    "AlphaYear": 2015,
+    "BetaYear": 2018,
+    "CharlieYear": 2022
+  },
+  {
+    "Trilogy": "Bill & Ted",
+    "AlphaScore": 6.9,
+    "BravoScore": 6.3,
+    "CharlieScore": 5.9,
+    "AlphaYear": 1989,
+    "BetaYear": 1991,
+    "CharlieYear": 2020
+  }
+]
